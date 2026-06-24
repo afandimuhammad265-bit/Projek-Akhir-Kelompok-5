@@ -16,7 +16,7 @@ Proyek akhir Internet of Things (IoT) ini bertujuan untuk mengimplementasikan be
 Pada proyek ini digunakan empat komponen utama, yaitu:
 
 - Sensor Getar (SW-420) 
-- Sensor Ultrasonik (HC-SR04) 
+- Sensor Ultrasonik (HC-SR04) + Servo Motor 
 - Sensor LDR (Light Dependent Resistor) 
 - Sensor Buzzer 
 
@@ -31,6 +31,7 @@ Masing-masing anggota bertanggung jawab atas implementasi dan pengujian sensor y
 | Sensor SW-420 | Mendeteksi getaran |
 | Sensor Ultrasonik HC-SR04 | Mengukur jarak objek |
 | Sensor LDR | Mendeteksi intensitas cahaya |
+| Servo Motor | Menggerakan Sensor Ultrasonic |
 | Buzzer | Menghasilkan suara/alarm |
 | Breadboard | Media perakitan rangkaian |
 | Kabel Jumper | Penghubung antar komponen |
