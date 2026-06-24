@@ -126,7 +126,7 @@ Proyek akhir IoT ini berhasil mengimplementasikan empat sensor yang memiliki fun
 
 📹 **Link Video Presentasi:**
 
-> [Klik Link Disini](https://www.youtube.com/)
+> [Klik Link Disini](https://youtu.be/A5SD2ZxUpWs?si=lrudiYz53XuOemHy)
 
 ---
 
